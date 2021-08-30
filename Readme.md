@@ -8,7 +8,6 @@ As Blue Team, I used Kibana to review logs that were taken during the attack usi
 
 Porject Objectives
 
-Step 2: Find the Request for the Hidden Directory.
 This project will apply the knowledge and use of the following skills and tools:
 Penetration testing with kali Linux.
 Log and incident analysis with Kibana.
